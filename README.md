@@ -1,3 +1,5 @@
+# AuditAI - AI-Powered Smart Contract Auditing
+
 <div align="center">
   <br />
    <a href="https://postimg.cc/G9V5k4bf" title="Project Screenshot" target="_blank">
@@ -11,12 +13,16 @@
     <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
   </div>
 
-  <h3 align="center">AuditAI</h3>
+  <h3 align="center">AuditAI - Built at Diversion2K25 IEM Hackathon</h3>
 
   <div align="center">
-    AuditAI is an innovative tool designed to leverage the power of AI to audit smart contracts. This project uses the OpenAI API to generate detailed audit reports.
+    AuditAI is an innovative AI-powered tool designed to audit smart contracts. Developed during the **Diversion2K25 IEM Hackathon**, this project leverages OpenAI to generate detailed security audit reports, ensuring smart contract reliability and security.
   </div>
 </div>
+
+## 📷 Project Screenshot
+
+![AuditAI Screenshot](./public/audit.jpg)
 
 ## 📋 Table of Contents
 
@@ -30,19 +36,22 @@
 
 ## 🤖 Introduction
 
-AuditAI provides an easy and efficient way to audit your smart contracts using AI. It interacts with the OpenAI API to analyze and generate detailed reports on the provided smart contract code.
+AuditAI provides an efficient and automated way to audit your smart contracts using AI. It interacts with the OpenAI API to analyze and generate detailed reports on the provided smart contract code, reducing security risks and improving development workflows.
 
 ## 🔋 Features
 
-- **AI-Powered Auditing**: Leverages OpenAI to generate comprehensive audit reports.
-- **Command Line Tool**: Provides a CLI for easy integration into development workflows.
-- **User-Friendly Interface**: Offers an easy-to-use frontend for auditing smart contracts.
+- **🚀 Hackathon-Built**: Developed at the **Diversion2K25 IEM Hackathon**, showcasing cutting-edge AI integration.
+- **🤖 AI-Powered Auditing**: Leverages OpenAI to generate comprehensive audit reports.
+- **🖥️ Command Line Tool**: Provides a CLI for easy integration into development workflows.
+- **🌐 User-Friendly Interface**: Offers an intuitive frontend for smart contract auditing.
+- **🔗 MetaMask Integration**: Connects with MetaMask to interact with blockchain networks seamlessly.
 
 ## ⚙️ Architecture
 
 1. **Command Line Tool**: `auditai`
 2. **Frontend**: React-based user interface
 3. **API Integration**: OpenAI API
+4. **Wallet Connection**: MetaMask for seamless interaction with blockchain networks
 
 ## 🤸 Setup and Deployment
 
@@ -103,19 +112,19 @@ auditai check <path-to-your-contract-file>
 npm run dev
 ```
 
-2. **Connect Wallet**: Connect your MetaMask wallet to the appropriate network.
+2. **Connect Wallet**: Use MetaMask to connect to the appropriate network.
 3. **Submit Contract Code**: Paste your smart contract code into the provided textarea and click "Analyze".
-4. **View Results**: After analysis, view the detailed audit report and metrics in the modal that appears.
+4. **View Results**: After analysis, view the detailed audit report and security metrics in the modal.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+We welcome contributions! If you’d like to improve AuditAI, feel free to fork the repository and submit a pull request.
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-```
+---
 
-This version should display correctly in your README. Adjust any specific details such as image links, repository links, and API keys to match your project.
-```
+*Developed with passion at **Diversion2K25 IEM Hackathon** by an innovative team of developers.* 🚀
+
