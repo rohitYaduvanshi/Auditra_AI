@@ -1,7 +1,7 @@
 <div align="center">
   <br />
    <a href="https://postimg.cc/G9V5k4bf" title="Project Screenshot" target="_blank">
-    <img src="./public/thumbnail.jpg" width="100%" alt="Project Screenshot"/>
+    <img src="./public/audit.jpg" width="100%" alt="Project Screenshot"/>
   </a>
 
   <br />
